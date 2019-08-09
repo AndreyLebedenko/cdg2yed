@@ -3,7 +3,7 @@ XSL file to import <em>NetBeans</em> <em>CDG</em> files produced by easyUML plug
 
 Version: 1.0
 
-Use: File -> Open -> XML + XSL (*.*) -> Select CDG file -> Open -> Select this file as "Custom XSL File" -> Ok
+Use: File -> Open -> XML + XSL (*...*) -> Select CDG file -> Open -> Select this file as "Custom XSL File" -> Ok
 
 Then you will, probably, want to do: Layout -> Orthogonal -> UML Style -> Ok
 
