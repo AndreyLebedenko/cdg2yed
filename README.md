@@ -10,3 +10,5 @@ Then you will, probably, want to do: Layout -> Orthogonal -> UML Style -> Ok
 License: Freeware. If you use it, please give credit to the author.
 
 Author: andrey.lebedenko@gmail.com 
+
+![Example](https://github.com/AndreyLebedenko/cdg2yed/raw/master/cdg2yed.jpg)
